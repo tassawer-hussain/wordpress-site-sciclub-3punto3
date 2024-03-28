@@ -1,0 +1,50 @@
+/*
+Theme Name:     Kallyas Child Theme
+Theme URI:      http://kallyas.net/demo/
+Description:    Child theme for the Kallyas theme
+Author:         Hogash
+Author URI:     http://themeforest.net/user/hogash
+Template:       kallyas
+Version:        4.0.0
+Tags: dark, light, left-sidebar, right-sidebar, fluid-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, full-width-template, theme-options, translation-ready
+Text Domain:  zn_framework
+*/
+
+#main-menu li.active > a,
+#main-menu li:hover > a,
+#main-menu li:focus > a {
+   color: #fff !important;
+}
+
+.th-header-text {
+   padding-left: 10px;
+}
+
+.th-header-text .th-main-title {
+   margin-bottom: 0;
+   font-size: 26px;
+   font-weight: 600;
+   font-family: "Poppins",sans-serif;
+   line-height: 1.3;
+   color: #fff;
+}
+.th-header-text .th-description {
+   font-size: 14px;
+   font-weight: 400;
+   letter-spacing: 2.2px;
+   margin-bottom: 0;
+   line-height: 1.7;
+   color: #fff;
+   font-family: "Roboto",sans-serif;
+}
+
+.footer_nav li a {
+    font-size: 14px !important;
+}
+.footer-copyright-text,
+.m_title_ext.text-custom.latest_posts-elm-title {
+	color: #fff !important;
+}
+.site-footer, .site-footer-bottom {
+	border: 0 !important;
+}

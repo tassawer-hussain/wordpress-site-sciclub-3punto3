@@ -1,0 +1,47 @@
+2020-03-18T08:09:38+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php on line 52
+
+2020-03-18T08:09:59+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php on line 52
+
+2020-03-18T08:10:21+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php on line 52
+
+2020-03-18T08:57:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_topics_inside_chapter() in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\inc\class_course_topic_listing_2bc.php:27
+Stack trace:
+#0 D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php(22): Course_Topic_Listing_2bc->course_has_chapters_and_topics(517)
+#1 D:\XAMPP2\htdocs\test1\wp-includes\template.php(722): require_once('D:\\XAMPP2\\htdoc...')
+#2 D:\XAMPP2\htdocs\test1\wp-includes\template.php(671): load_template('D:\\XAMPP2\\htdoc...', true)
+#3 D:\XAMPP2\htdocs\test1\wp-includes\general-template.php(111): locate_template(Array, true)
+#4 D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\single-tutorial.php(154): get_sidebar('lessons')
+#5 D:\XAMPP2\htdocs\test1\wp-includes\template-loader.php(98): include('D:\\XAMPP2\\htdoc...')
+#6 D:\XAMPP2\htdocs\test1\wp-blog-header.php(19): require_once('D:\\XAMPP2\\htdoc...')
+#7 D:\XAMPP2\htdocs\test1\index.php(17): require('D:\\XAMPP2\\htdoc...')
+#8 {main}
+  throw in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\inc\class_course_topic_listing_2bc.php on line 27
+
+2020-03-18T08:57:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_topics_inside_chapter() in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\inc\class_course_topic_listing_2bc.php:27
+Stack trace:
+#0 D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php(22): Course_Topic_Listing_2bc->course_has_chapters_and_topics(517)
+#1 D:\XAMPP2\htdocs\test1\wp-includes\template.php(722): require_once('D:\\XAMPP2\\htdoc...')
+#2 D:\XAMPP2\htdocs\test1\wp-includes\template.php(671): load_template('D:\\XAMPP2\\htdoc...', true)
+#3 D:\XAMPP2\htdocs\test1\wp-includes\general-template.php(111): locate_template(Array, true)
+#4 D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\single-tutorial.php(154): get_sidebar('lessons')
+#5 D:\XAMPP2\htdocs\test1\wp-includes\template-loader.php(98): include('D:\\XAMPP2\\htdoc...')
+#6 D:\XAMPP2\htdocs\test1\wp-blog-header.php(19): require_once('D:\\XAMPP2\\htdoc...')
+#7 D:\XAMPP2\htdocs\test1\index.php(17): require('D:\\XAMPP2\\htdoc...')
+#8 {main}
+  throw in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\inc\class_course_topic_listing_2bc.php on line 27
+
+2020-03-18T08:59:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_topics_inside_chapter() in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\inc\class_course_topic_listing_2bc.php:27
+Stack trace:
+#0 D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php(22): Course_Topic_Listing_2bc->course_has_chapters_and_topics(517)
+#1 D:\XAMPP2\htdocs\test1\wp-includes\template.php(722): require_once('D:\\XAMPP2\\htdoc...')
+#2 D:\XAMPP2\htdocs\test1\wp-includes\template.php(671): load_template('D:\\XAMPP2\\htdoc...', true)
+#3 D:\XAMPP2\htdocs\test1\wp-includes\general-template.php(111): locate_template(Array, true)
+#4 D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\single-tutorial.php(154): get_sidebar('lessons')
+#5 D:\XAMPP2\htdocs\test1\wp-includes\template-loader.php(98): include('D:\\XAMPP2\\htdoc...')
+#6 D:\XAMPP2\htdocs\test1\wp-blog-header.php(19): require_once('D:\\XAMPP2\\htdoc...')
+#7 D:\XAMPP2\htdocs\test1\index.php(17): require('D:\\XAMPP2\\htdoc...')
+#8 {main}
+  throw in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\inc\class_course_topic_listing_2bc.php on line 27
+
+2020-03-18T10:51:21+00:00 CRITICAL syntax error, unexpected '<' in D:\XAMPP2\htdocs\test1\wp-content\themes\kallyas-child-tutorial\sidebar-lessons.php on line 86
+

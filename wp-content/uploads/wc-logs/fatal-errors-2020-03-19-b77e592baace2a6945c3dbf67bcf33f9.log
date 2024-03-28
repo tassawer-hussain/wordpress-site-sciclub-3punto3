@@ -1,0 +1,2 @@
+2020-03-19T11:10:46+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 20480 bytes) in D:\XAMPP2\htdocs\test1\wp-content\plugins\revslider\includes\googlefonts.php on line 44
+
